@@ -1,0 +1,16 @@
+$mainBlack: #333;
+$mainGreen: #82b340;
+$mainWhite: #fff;
+$mainGrey: #ececec;
+
+* {
+  margin: 0em;
+  padding: 0em;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: $mainWhite;
+  color: $mainBlack;
+  font-family: "Open Sans", sans-serif;
+}
